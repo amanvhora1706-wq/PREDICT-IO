@@ -1,4 +1,4 @@
-# Predict IO – Financial Data Visualization & Forecasting Web App   
+# Predict IO – Financial Data Visualization & Forecasting Web Application   
 
 ## Overview
 Predict IO is a web-based financial analytics application built to collect, visualize, and analyze live market data in an intuitive and meaningful way. The project focuses on helping users better understand financial patterns by transforming raw market data into interactive visualizations and simple trend forecasts.
