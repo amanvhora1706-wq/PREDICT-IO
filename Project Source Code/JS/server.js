@@ -1,3 +1,7 @@
+Note: API keys are not included in this repository. 
+To enable live API calls, replace placeholder values with your own keys.
+
+
 const symbols = ['TCS', 'HDFCBANK.BSE', 'INFY'];
 
 
@@ -8,7 +12,7 @@ async function fetchStockData(symbol) {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '403733850fmsh70e5bb62f0b3edep1127e5jsnbd36276b0bf1',
+            'X-RapidAPI-Key': 'Your API Key',
             'X-RapidAPI-Host': 'alpha-vantage.p.rapidapi.com'
         }
     };
@@ -30,5 +34,6 @@ async function fetchStockData(symbol) {
         await fetchStockData(symbol);
     }
 })();
+
 
 
