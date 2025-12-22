@@ -41,5 +41,7 @@ I was responsible for the complete development lifecycle, including:
 - Gained hands-on experience with time-series data and forecasting concepts  
 - Improved understanding of financial analytics and real-world data challenges  
 
-## How to Run the Project
-1. Clone the repository  
+## Limitations
+- Uses simple Moving Average techniques and does not include advanced forecasting models
+- Prediction accuracy depends on data quality and API availability
+- Not intended for real-time trading or financial decision-making
