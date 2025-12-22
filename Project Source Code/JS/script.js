@@ -1,3 +1,12 @@
+# API Configuration
+This project uses third-party APIs for fetching financial and news data.
+API keys are not included in the repository for security reasons.
+
+To run the project with live data:
+1. Create an API key from the respective service (e.g., NewsAPI, Alpha Vantage)
+2. Replace `YOUR_API_KEY_HERE` in the JavaScript files with your own key
+
+
 const API_KEY = "YOUR_API_KEY_HERE";
 const url = "https://newsapi.org/v2/everything?q=";
 
@@ -70,3 +79,4 @@ searchButton.addEventListener("click", () => {
     curSelectedNav = null;
 
 });
+
