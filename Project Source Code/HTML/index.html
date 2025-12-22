@@ -1,3 +1,12 @@
+## API Configuration
+This project uses third-party APIs (Alpha Vantage, RapidAPI).
+API keys are intentionally excluded for security reasons.
+
+To enable live data:
+1. Create a RapidAPI account
+2. Subscribe to the required APIs
+3. Replace `YOUR_API_KEY_HERE`  with your own key
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -226,7 +235,7 @@
                 const options = {
                     method: 'GET',
                     headers: {
-                        'X-RapidAPI-Key': '403733850fmsh70e5bb62f0b3edep1127e5jsnbd36276b0bf1',
+                        'X-RapidAPI-Key': 'YOUR_API_KEY_HERE',
                         'X-RapidAPI-Host': 'alpha-vantage.p.rapidapi.com'
                     }
                 };
@@ -342,7 +351,7 @@
                         const options = {
                             method: 'GET',
                             headers: {
-                                'X-RapidAPI-Key': '6176fd1ec9msh37d20c700830fd4p15dd10jsn37e29191f571',
+                                'X-RapidAPI-Key': 'YOUR_API_KEY_HERE',
                                 'X-RapidAPI-Host': 'alpha-vantage.p.rapidapi.com'
                             }
                         };
@@ -418,7 +427,7 @@
                         method: 'GET',
                         url: 'https://share-market-news-api-india.p.rapidapi.com/marketNews',
                         headers: {
-                            'X-RapidAPI-Key': '403733850fmsh70e5bb62f0b3edep1127e5jsnbd36276b0bf1',
+                            'X-RapidAPI-Key': 'YOUR_API_KEY_HERE',
                             'X-RapidAPI-Host': 'share-market-news-api-india.p.rapidapi.com'
                         }
                     };
@@ -535,5 +544,6 @@
         </body>
     </footer>
     </body>
+
 
 </html>
