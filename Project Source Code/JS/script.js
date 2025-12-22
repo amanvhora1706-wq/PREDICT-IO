@@ -1,4 +1,4 @@
-const API_KEY = "245a255771bf4337ba2bbc0770d8341a";
+const API_KEY = "YOUR_API_KEY_HERE";
 const url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => fetchNews("Stocks"));
@@ -68,4 +68,5 @@ searchButton.addEventListener("click", () => {
     fetchNews(query);
     curSelectedNav?.classList.remove("active");
     curSelectedNav = null;
+
 });
