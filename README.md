@@ -42,13 +42,17 @@ I was responsible for the complete development lifecycle, including:
 - Improved understanding of financial analytics and real-world data challenges  
 
 ## Limitations
--Uses a basic Moving Average method and does not include advanced forecasting models.
--Prediction accuracy depends on the quality and availability of external API data.
--Some data sources (fuel prices and news) are shown using sample data due to free API limitations.
--Focuses on short-term trend indication rather than long-term market forecasting.
--Does not consider external factors such as economic events or company fundamentals.
--Intended for learning and analysis purposes, not for real-time trading or financial decisions.
+Uses a basic Moving Average method and does not include advanced forecasting models.
 
+Prediction accuracy depends on the quality and availability of external API data.
+
+Some data sources (fuel prices and news) are shown using sample data due to free API limitations.
+
+Focuses on short-term trend indication rather than long-term market forecasting.
+
+Does not consider external factors such as economic events or company fundamentals.
+
+Intended for learning and analysis purposes, not for real-time trading or financial decisions.
 - ## Live Demo
 A live demonstration of this project is available here:
 
