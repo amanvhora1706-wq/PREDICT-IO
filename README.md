@@ -42,6 +42,7 @@ I was responsible for the complete development lifecycle, including:
 - Improved understanding of financial analytics and real-world data challenges  
 
 ## Limitations
+- Present complex financial information in a clear and user-friendly format  
 Uses a basic Moving Average method and does not include advanced forecasting models.
 
 Prediction accuracy depends on the quality and availability of external API data.
