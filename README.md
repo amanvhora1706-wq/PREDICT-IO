@@ -45,3 +45,8 @@ I was responsible for the complete development lifecycle, including:
 - Uses simple Moving Average techniques and does not include advanced forecasting models
 - Prediction accuracy depends on data quality and API availability
 - Not intended for real-time trading or financial decision-making
+
+- ## Live Demo
+A live demonstration of this project is available here:
+
+🔗 https://amanvhora1706-wq.github.io/PREDICT-IO-WEBSITE/
