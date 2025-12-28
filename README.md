@@ -1,15 +1,15 @@
 # Predict IO – Financial Data Visualization & Forecasting Web Application   
 
 ## Overview
-Predict IO is a web-based financial analytics application built to collect, visualize, and analyze live market data in an intuitive and meaningful way. The project focuses on helping users better understand financial patterns by transforming raw market data into interactive visualizations and simple trend forecasts.
+Predict IO is an online finance prediction solution designed for collecting, visualising, and analysing real-time financial data. Through Predicting IO, users can learn about financial trends in real-time, view raw finance data in visual format (graphs and charts), and create easy-to-understand predictions about current and future trends in finances.
 
-The application pulls real-time data from stock, currency, and fuel markets using public financial APIs and applies Moving Average–based forecasting to highlight short-term trends. Interactive dashboards make it easy to explore data and gain insights without requiring advanced financial knowledge.
+The financial markets (stocks, currency, and fuel) are updated in real-time by using financial web API's. Moving Averages are used to identify short-term trends, while Predicting IO facilitates easy interaction with these data through dynamic dashboards.
 
 ## Key Objectives
-- Collect real-time financial data from reliable public APIs  
-- Visualize market trends through interactive dashboards  
-- Apply basic time-series forecasting using Moving Average techniques  
-- Present complex financial information in a clear and user-friendly format  
+- Collect real-time financial data using publicly available APIs.  
+- Visualise financial data through interactive dashboards.
+- Forecast basic time series data using Moving Averages.
+- Present complex financial data in a format that the average individual can understand.
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript  
@@ -24,8 +24,7 @@ The application currently supports:
 - Fuel price trend tracking  
 - Simple trend prediction using historical data  
 
-The focus of the project is on **clarity, usability, and interpretability** rather than high-frequency trading or complex financial modeling.
-
+The project focuses on producing results in as clear, user-friendly, and interpretable way as possible and will not be focused on fast-paced trading or advanced financial modelling.
 ## My Role
 This project was developed as part of an industry internship at **Tech Elecon Pvt. Ltd. (Jan 2025 – Apr 2025)**.  
 I was responsible for the complete development lifecycle, including:
