@@ -26,29 +26,29 @@ The application currently supports:
 
 The project focuses on producing results in as clear, user-friendly, and interpretable way as possible and will not be focused on fast-paced trading or advanced financial modelling.
 ## My Role
-This project was developed as part of an industry internship at **Tech Elecon Pvt. Ltd. (Jan 2025 – Apr 2025)**.  
-I was responsible for the complete development lifecycle, including:
-- Designing the application structure and data flow  
-- Integrating financial APIs and preprocessing data  
-- Implementing Moving Average–based forecasting logic  
-- Creating interactive dashboards and visualizations  
-- Testing and refining the user experience  
+As part of my internship at Tech Elecon Pvt Ltd (Jan 2025 – Apr 2025), I led the development cycle of this project, which encompasses all phases from start to finish. When developing this application, I was also responsible for doing the following:
+
+- Designing how all the "systems/data" interact within the web application, and also creating the "workflow" for how a user would process and work with their financial data.
+- Integrating financial web APIs to receive the financial data and pre-processing the received data.
+- Creating and Implementing the logic for forecasting using Moving Average's. 
+- Creating dashboards and Visualizations that are user-friendly and allows for easy navigation.
+-  Performing Testing/Refinement to improve the User Experience.
 
 ## Results & Learnings
-- Successfully integrated live financial data into a web application  
-- Built interactive dashboards that simplify complex datasets  
-- Gained hands-on experience with time-series data and forecasting concepts  
-- Improved understanding of financial analytics and real-world data challenges  
+- I Successfully Integrated the Financial Data into a Live Financial Application.
+- I Designed and Developed Dashboards that are Interactive and allow for quick/easy searching through multiple Complex Data Sets.
+- I gained hands-on experience working with Time Series Data and Forecasting Concepts.
+- I have a Much Better Understanding of Financial Analytics and Challenges Involved with Real-World Data.  
 
 ## Limitations
-- Uses a basic Moving Average method and does not include advanced forecasting models.
-- Prediction accuracy depends on the quality and availability of external API data.
-- Some data sources (fuel prices and news) are shown using sample data due to free API limitations.
-- Focuses on short-term trend indication rather than long-term market forecasting.
-- Does not consider external factors such as economic events or company fundamentals.
-- Intended for learning and analysis purposes, not for real-time trading or financial decisions.  
-
-- ## Live Demo
-A live demonstration of this project is available here:
+- Usage of Moving Average method is Very Basic and Doesn’t Incorporate more advanced Forecasting Models.
+- The Prediction also depends on the Quality of Data from External APIs and the availability of that data.
+- No Free API's that provide Historical data to take data and project future predictions exist for the two Data Sources (Fuel Prices and News) shown above, hence the use of Sample Data.
+- The Focus of this project is on Short-Term Trend Indicators and Not Long-Term Market Forecasting.
+- I have not taken into consideration any Other Factors Outside of this project, such as Economic events (i.e. Oil Prices, Inflation, Interest Rates, etc.) and Company Fundamentals.
+- Intended for the Purpose of Learning/Analysis only, Not to be used for actual Financial Decisions or Live-Trading.
+  
+ ## Live Demo
+A Live Demonstration of the Project is available here:
 
 🔗 https://amanvhora1706-wq.github.io/PREDICT-IO-WEBSITE/
