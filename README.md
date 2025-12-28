@@ -26,7 +26,6 @@ The application currently supports:
 
 The project focuses on producing results in as clear, user-friendly, and interpretable way as possible and will not be focused on fast-paced trading or advanced financial modelling.
 ## My Role
-As part of my internship at Tech Elecon Pvt Ltd (Jan 2025 – Apr 2025), I led the development cycle of this project, which encompasses all phases from start to finish. When developing this application, I was also responsible for doing the following:
 
 - Designing how all the "systems/data" interact within the web application, and also creating the "workflow" for how a user would process and work with their financial data.
 - Integrating financial web APIs to receive the financial data and pre-processing the received data.
