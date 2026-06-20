@@ -17,7 +17,7 @@ Implements Simple Moving Averages (SMA) to help users identify and project short
 4.	Forecasting Technique: Moving Average Algorithm
 
 ## 💼 My Responsibilities:
-•	As the lead developer for this project during semester, I owned the full development lifecycle
+#### As the lead developer for this project during semester, I owned the full development lifecycle.
 •	System Architecture: Designed the data workflows and user interaction models.
 •	API Integration: Handled live data fetching, parsing, and data pre-processing.
 •	Algorithm Implementation: Wrote the core logic for the Moving Average forecasting models.
