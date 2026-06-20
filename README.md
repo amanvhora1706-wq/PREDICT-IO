@@ -3,9 +3,9 @@
 Predict IO is a web-based financial analytics tool designed to make real-time market data easy to visualize, track, and analyze for the everyday user. Built during my mini project course, this application simplifies complex financial data streams into clean, interactive dashboards.
 
 ## 🚀 Key Features:
-o	Real-Time Tracking: Fetches live data for stock markets, forex (currency), and fuel price trends using the Alpha Vantage API.
-o	Interactive Dashboards: Visualizes raw, complex financial data into digestible charts and graphs using Plotly.js.
-o	Trend Forecasting: Implements Simple Moving Averages (SMA) to help users identify and project short-term market trends.
+## o	Real-Time Tracking: Fetches live data for stock markets, forex (currency), and fuel price trends using the Alpha Vantage API.
+## o	Interactive Dashboards: Visualizes raw, complex financial data into digestible charts and graphs using Plotly.js.
+## o	Trend Forecasting: Implements Simple Moving Averages (SMA) to help users identify and project short-term market trends.
 
 ## 🛠️ Tech Stack:
 1.	Frontend: HTML5, CSS3, JavaScript 
